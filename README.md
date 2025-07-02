@@ -7,6 +7,6 @@ Checks the main official RUST Discords for people mentioning hackers and increme
 
 Uses https://github.com/dolfies/discord.py-self
 
-Why make this?
-It was just a fun project to see which servers have the most complaints of cheaters. 
+Why make this? <br>
+It was just a fun project to see which servers have the most complaints of cheaters. <br> 
 It's not very accurate as there are many factors that can affect a persons desicion to complain about a cheater in the discord besides active admins
